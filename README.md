@@ -4,7 +4,7 @@ A perfume website
 
 A semester project combining **UI/UX design** and **frontend development**, **ScentClove** is a responsive web application that allows users to curate personalized perfume sample kits based on their scent preferences.
 
-> 🎯 Live Demo: [https://scentclove-try-perfume-samples.netlify.app/](#)  
+> 🎯 Live Demo: [Click Here]((https://scentclove-try-perfume-samples.netlify.app/))  
 > *(Add your Netlify/Vercel/GitHub Pages link above)*
 
 ---
